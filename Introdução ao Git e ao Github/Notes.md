@@ -20,10 +20,10 @@ Os arquivos do git são guardados dentro do objeto chamado "blob" que contém me
 
 ## Comandos
 
-**mv <arquivo> <diretório>** -> move um arquivo para um diretório
-**git init** -> cria um repositório e uma pasta .git
-**git status** -> mostra informações do working directory e local rep
-**git config --list** -> mostra todas as configurações do git na máquina
-**git config --global --unset <propriedade>** -> para remover alguma configuração para setar novamente
-**git pull origin master** -> puxa a versão remota para a máquina, juntando alterações
-**git clone <url>** -> clona um repositório do git para a máquina
+-**mv <arquivo> <diretório>** -> move um arquivo para um diretório
+-**git init** -> cria um repositório e uma pasta .git
+-**git status** -> mostra informações do working directory e local rep
+-**git config --list** -> mostra todas as configurações do git na máquina
+-**git config --global --unset <propriedade>** -> para remover alguma configuração para setar novamente
+-**git pull origin master** -> puxa a versão remota para a máquina, juntando alterações
+-**git clone <url>** -> clona um repositório do git para a máquina
